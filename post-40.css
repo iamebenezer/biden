@@ -102,12 +102,10 @@
 }
 
 .elementor-40 .elementor-element.elementor-element-fea7363:not(.elementor-motion-effects-element-type-background), .elementor-40 .elementor-element.elementor-element-fea7363 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-    background-image: url("https://a742a3.p3cdn1.secureserver.net/wp-content/uploads/2024/05/Wbsite-cover-photo-scaled.jpg?time=1716298463");
-    
+    background-image: url("/bg.jpg");
     background-position: center center;
-
-
-    background-size: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .elementor-40 .elementor-element.elementor-element-fea7363, .elementor-40 .elementor-element.elementor-element-fea7363::before {
@@ -1871,9 +1869,8 @@
     }
 
     .elementor-40 .elementor-element.elementor-element-fea7363:not(.elementor-motion-effects-element-type-background), .elementor-40 .elementor-element.elementor-element-fea7363 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-        background-image: url("https://a742a3.p3cdn1.secureserver.net/wp-content/uploads/2024/05/Wbsite-cover-photo-scaled.jpg?time=1716298463");
+        background-image: url("/bg.jpg");
         background-position: 0px 0px;
-        
     }
 
     .elementor-40 .elementor-element.elementor-element-4521bad > .elementor-widget-container {
